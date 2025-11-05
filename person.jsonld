@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://w3id.org/aricimurat/person",
+  "@type": "Person",
+  "identifier": "https://w3id.org/aricimurat/person",
+  "name": "Murat Arici",
+  "alternateName": [
+    "Aricimurat",
+    "Murat Arici – Semantic Presence Engineer"
+  ],
+  "url": "https://aricimurat.com/",
+  "sameAs": [
+    "https://arimetion.de/",
+    "https://ariversum.com/",
+    "https://sepreen.com/",
+    "https://github.com/aricimurat"
+  ],
+  "jobTitle": "Semantic Presence Engineer",
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Computer Scientist",
+    "occupationLocation": {
+      "@type": "Country",
+      "name": "Germany"
+    },
+    "skills": [
+      "Semantic Web",
+      "Artificial Intelligence",
+      "Information Security"
+    ]
+  },
+  "description": "Murat Arici is the creator of the Arimetion® protocol and Semantic Presence Engineering, defining the bridge between meaning, machine understanding, and digital authority.",
+  "knowsAbout": [
+    "Semantic Web",
+    {
+      "@type": "DefinedTerm",
+      "name": "Artificial Intelligence",
+      "inDefinedTermSet": "https://www.wikidata.org/"
+    },
+    "E-Commerce Architecture",
+    "Cybersecurity",
+    "Compliance Automation"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Ariversum",
+    "url": "https://ariversum.com/"
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "CompTIA Security+",
+      "credentialCategory": "Certification",
+      "educationalLevel": "Intermediate",
+      "competencyRequired": "Cybersecurity Fundamentals",
+      "credentialStatus": "Enrolled"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "CompTIA CySA+",
+      "credentialCategory": "Certification",
+      "educationalLevel": "Advanced",
+      "competencyRequired": "Cybersecurity Analytics",
+      "credentialStatus": "Planned"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "IT-Security-Beauftragter (TÜV Rheinland)",
+      "credentialCategory": "Professional Certification",
+      "educationalLevel": "Professional",
+      "competencyRequired": "Risk Management and Compliance",
+      "credentialStatus": "Enrolled"
+    }
+  ],
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "Arimetion® Protocol",
+      "url": "https://arimetion.de/",
+      "description": "A semantic protocol and discipline for translating human intention into machine-readable coherence."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Metafloration",
+      "description": "The blossoming of meaning through semantic interconnection on the meta-level."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Adressat-Prinzip",
+      "description": "The principle of targeted, intentional alignment of meaning."
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+}
