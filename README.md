@@ -18,7 +18,7 @@ This namespace acts as the *A0-level identity* for Murat Arici:
 ---
 
 ## 🌐 Related Domains
-- [arimetion.com](https://arimetion.com)
+- [arimetion.de](https://arimetion.de)
 - [aricimurat.com](https://aricimurat.com)
 - [ariversum.com](https://ariversum.com)
 - [sepreen.com](https://sepreen.com)
